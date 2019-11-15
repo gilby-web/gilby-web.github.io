@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Gibly</title>
-    <link>https://gilby.video/</link>
+    <link>http://gilby.video/</link>
     <description>Recent content on Daniel Gibly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://gilby.video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gilby.video/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

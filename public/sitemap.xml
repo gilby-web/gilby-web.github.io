@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gilby.video/categories/</loc>
+    <loc>http://gilby.video/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gilby.video/</loc>
+    <loc>http://gilby.video/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gilby.video/tags/</loc>
+    <loc>http://gilby.video/tags/</loc>
     <priority>0</priority>
   </url>
   
