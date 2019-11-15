@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://gilby.video/"
+baseurl = "http://gilby.video/"
 languageCode = "en-us"
 title = "Daniel Gibly"
 theme = "hugo-freelancer-theme"
@@ -115,12 +115,7 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
-
-            [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
-
+                link = "https://github.com/gilby-web/"
 
         [params.footer.credits]
             title = "About Freelancer"
