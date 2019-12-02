@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://gilby.video/"
 languageCode = "en-us"
-title = "Daniel Gibly"
+title = "Daniel Gilby"
 theme = "hugo-freelancer-theme"
 
 
@@ -12,8 +12,8 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Mr. Daniel Gilby"
-    description = "Graphic designer and awesome dude."
+    name = "Daniel J. Gilby"
+    description = "Videographer, Editor, Graphic Designer"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -39,8 +39,8 @@ theme = "hugo-freelancer-theme"
     [params.header]
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
-        name = "Mr. Daniel Gilby"
-        subtitle = "Graphic Designer - Artist - Videographer"
+        name = "Daniel J. Gilby"
+        subtitle = "Videographer - Editor - Graphic Designer"
 
 
     [params.portfolio]
@@ -68,8 +68,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Daniel Gilby is an awesome dude who makes awesome artwork."
-        right = "Look at all the work he has in his portfolio!"
+        left = "Daniel Gilby is a Videographer, Editor and Graphic designer based in Queensland, Australia."
+        right = "Starting from a young age, Daniel has years worth of experience in all specified areas to deliver the highest quality production available for your budget."
 
 		[params.about.button]
 		 	text = "Contact Me!"
@@ -106,7 +106,7 @@ theme = "hugo-freelancer-theme"
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["Australia"]
+            address = ["Queensland, Australia"]
 
         [params.footer.social]
             title = "Around the web"
@@ -114,8 +114,8 @@ theme = "hugo-freelancer-theme"
             # for more icons. The icons are represented by their corresponding
             # CSS class.
             [[params.footer.social.networks]]
-                icon = "fa-github"
-                link = "https://github.com/gilby-web/"
+                icon = "fa-linkedin"
+                link = "https://www.linkedin.com/in/daniel-gilby-3bb3a3182"
 
         [params.footer.credits]
             title = "About Freelancer"
