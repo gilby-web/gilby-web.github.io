@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://gilby.video/"
+baseurl = "https://gilby.video/"
 languageCode = "en-us"
 title = "Daniel Gilby"
 theme = "hugo-freelancer-theme"
