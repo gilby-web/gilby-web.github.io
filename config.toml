@@ -57,12 +57,12 @@ theme = "hugo-freelancer-theme"
             buttontext = "Close"
 
 	[params.video]
-		title = "Portfolio"
+		title = "Video"
 
-        [params.video.modal]            
-        client = "Client"             
-        date = "Date"             
-        category = "Category"             
+        [params.video.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
         buttontext = "Close"
 
     [params.about]
