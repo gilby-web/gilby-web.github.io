@@ -68,8 +68,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Daniel Gilby is a Videographer, Editor and Graphic designer based in Queensland, Australia."
-        right = "Starting from a young age, Daniel has years worth of experience in all specified areas to deliver the highest quality production available for your budget."
+        left = "I'm Daniel Gilby, a Videographer, editor and graphic design artist based in Queensland Australia."
+        right = "With years worth of experience and sharp problem solving skills, I'm confident that I can deliver whatever you require, in time and on budget."
 
 		[params.about.button]
 		 	text = "Contact Me!"
