@@ -5,10 +5,6 @@
     <link>https://gilby.video/</link>
     <description>Recent content on Daniel Gilby</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://gilby.video/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://gilby.video/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
